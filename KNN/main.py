@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 from numpy import *
 import operator
+from sklearn import neighbors
 
 # test source
 def createDataSource():
